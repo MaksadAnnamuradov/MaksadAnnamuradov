@@ -46,8 +46,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksadAnnamuradov&layout=compact&theme=radical)](https://github.com/MaksadAnnamuradov/)
 
 ---
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksadAnnamuradov&repo=DataGurus&theme=radical)(https://github.com/MaksadAnnamuradov/DataGurus)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksadAnnamuradov&repo=JarvisAi&theme=radical)(https://github.com/MaksadAnnamuradov/JarvisAi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksadAnnamuradov&repo=DataGurus&theme=radical)](https://github.com/MaksadAnnamuradov/DataGurus)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksadAnnamuradov&repo=JarvisAi&theme=radical)](https://github.com/MaksadAnnamuradov/JarvisAi)
 ---
 
 [website]: https://maksadannamuradov.com
