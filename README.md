@@ -1,6 +1,6 @@
 ### Hi there, I'm Maksad Annamuradov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MaksadAnnamuradov.github_profile)
 
 ![github](https://img.shields.io/github/followers/MaksadAnnamuradov?style=social)
 
@@ -45,12 +45,11 @@
 
 
 :zap: GitHub Stats
-![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=MaksadAnnamuradov&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksadAnnamuradov&layout=compact&theme=radical)](https://github.com/MaksadAnnamuradov/)
-
 
 ---
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksadAnnamuradov&repo=DataGurus&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksadAnnamuradov&repo=JarvisAi&theme=radical)
 ---
 
 [website]: https://maksadannamuradov.com
