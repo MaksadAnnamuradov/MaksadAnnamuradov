@@ -1,7 +1,7 @@
 ### Hi there, I'm Maksad Annamuradov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MaksadAnnamuradov" alt="MaksadAnnamuradov"/></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaksadAnnamuradov" alt="MaksadAnnamuradov"/></p>
+![github](https://img.shields.io/github/followers/MaksadAnnamuradov?style=social)
 
 <p align="center">
   <br><img src="https://github.com/MaksadAnnamuradov/MaksadAnnamuradov/blob/main/assets/gifs/developer.gif" width="450px">
@@ -11,14 +11,12 @@
   <br><img src="https://github.com/MaksadAnnamuradov/MaksadAnnamuradov/blob/main/assets/gifs/snake.svg" width="450px">
 </p>
 
-<h2 align="center"> Arsh Sahzad's Stats
+<h2 align="center"> Maksad Annamuradov's Stats
   <br><img src="https://github.com/MaksadAnnamuradov/MaksadAnnamuradov/blob/main/github-metrics.svg"><br> 
 </h2>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MaksadAnnamuradov.MaksadAnnamuradov)
 
-![github](https://img.shields.io/github/followers/MaksadAnnamuradov?style=social)
 
 <img align="right" alt="GIF" src="https://github.com/MaksadAnnamuradov/github_profile/blob/main/code.gif?raw=true" width="500" height="320" />
 
