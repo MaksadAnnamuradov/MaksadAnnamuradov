@@ -1,6 +1,6 @@
 ### Hi there, I'm Maksad Annamuradov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=maksadannamuradov.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ![github](https://img.shields.io/github/followers/MaksadAnnamuradov?style=social)
 
@@ -45,16 +45,13 @@
 
 
 :zap: GitHub Stats
-![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Arbazkhan4712&show_icons=true&theme=radical)
+![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=MaksadAnnamuradov&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksadAnnamuradov&layout=compact&theme=radical)](https://github.com/MaksadAnnamuradov/)
 
 
 ---
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Arbazkhan4712&repo=Python-Quarantine-Projects&theme=radical)
-
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksadAnnamuradov&repo=DataGurus&theme=radical)
 ---
-
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" /> 
 
 [website]: https://maksadannamuradov.com
 [linkedin]: https://www.linkedin.com/in/maksadannamuradov/
