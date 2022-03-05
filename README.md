@@ -1,5 +1,6 @@
 ### Hi there, I'm Maksad Annamuradov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+![github](https://img.shields.io/github/followers/MaksadAnnamuradov?style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaksadAnnamuradov" alt="MaksadAnnamuradov"/></p>
 
 
@@ -19,7 +20,7 @@
 
 
 
-![github](https://img.shields.io/github/followers/MaksadAnnamuradov?style=social)
+
 <img align="right" alt="GIF" src="https://github.com/MaksadAnnamuradov/github_profile/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
