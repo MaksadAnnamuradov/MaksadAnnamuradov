@@ -42,7 +42,7 @@
 
 ---
 
-
+[![Maksad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksadAnnamuradov&count_private=true)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksadAnnamuradov&layout=compact&theme=radical)](https://github.com/MaksadAnnamuradov/)
 
 ---
