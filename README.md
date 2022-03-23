@@ -12,12 +12,6 @@
   <br><img src="https://github.com/MaksadAnnamuradov/MaksadAnnamuradov/blob/main/assets/gifs/snake.svg" width="450px">
 </p>
 
-![Metrics](https://metrics.lecoq.io/MaksadAnnamuradov?template=classic&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&gists=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&config.timezone=America%2FDenver)
-
-
-
-
-
 
 <img align="right" alt="GIF" src="https://github.com/MaksadAnnamuradov/github_profile/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -26,7 +20,7 @@
 
 - 🌱 I’m currently Working on Machine Learning based projects
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to automate my tasks with programming
 
 <br />
