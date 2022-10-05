@@ -16,9 +16,9 @@
 <img align="right" alt="GIF" src="https://github.com/MaksadAnnamuradov/github_profile/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a  Python Developer,Computer Science Engineer,Artificial Intelligence Enthusiast and Teacher!!
+## I'm a Developer,Computer Science Nerd, AI Enthusiast and Adventure Seeker!!
 
-- 🌱 I’m currently Working on Machine Learning based projects
+- 🌱 I’m currently working on different programming skills
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to automate my tasks with programming
